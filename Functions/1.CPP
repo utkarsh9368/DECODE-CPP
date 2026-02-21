@@ -1,7 +1,4 @@
-#include<bits/stdc++.h>
-using namespace std;
-int main(){
-    #include <iostream>
+#include <iostream>
 using namespace std;
 
 void greet() {
@@ -11,5 +8,4 @@ void greet() {
 int main() {
     greet();   // function call
     return 0;
-}
 }
